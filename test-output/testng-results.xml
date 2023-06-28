@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T00:23:12 IST" name="Suite" finished-at="2023-06-29T00:23:44 IST" duration-ms="31614">
+    <groups>
+      <group name="Common">
+        <method signature="Facebooklogin.Facebook_login()[pri:1, instance:PageRepo.Facebooklogin@644baf4a]" name="Facebook_login" class="PageRepo.Facebooklogin"/>
+      </group> <!-- Common -->
+    </groups>
+    <test started-at="2023-06-29T00:23:12 IST" name=" Test1" finished-at="2023-06-29T00:23:44 IST" duration-ms="31614">
+      <class name="PageRepo.Facebooklogin">
+        <test-method signature="Facebook_login()[pri:1, instance:PageRepo.Facebooklogin@644baf4a]" started-at="2023-06-29T00:23:12 IST" name="Facebook_login" finished-at="2023-06-29T00:23:44 IST" duration-ms="31580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook_login -->
+      </class> <!-- PageRepo.Facebooklogin -->
+    </test> <!--  Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

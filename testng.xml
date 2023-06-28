@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name=" Test1"  >
+	<groups>
+		<run>	
+			<include name="Common"></include>	
+						
+		</run>
+	</groups>
+	<classes>
+			
+			<!--  <class name="PageRepo.loginTest" /> -->
+		<!--	 <class name="PageRepo.Academy_signup" />-->
+			<class name="PageRepo.Facebooklogin" />
+		 <!--	<class name="PageRepo.Academy_without_enrollment" />
+			<class name="PageRepo.Academy" />
+			<class name="PageRepo.ActCheck" />
+			<class name="PageRepo.Advisory" />
+			<class name="PageRepo.Bookstore" />
+			<class name="PageRepo.Budget" />
+			<class name="PageRepo.Company_Law" />
+			<class name="PageRepo.Editors_Pick" />
+			<class name="PageRepo.GST_page" />
+			<class name="PageRepo.IncognitoMode_Check" />
+			<class name="PageRepo.Income_tax" />
+			<class name="PageRepo.Journals" />
+			<class name="PageRepo.latest_Story" />
+			<class name="PageRepo.Most_Viewed" />
+			<class name="PageRepo.Opinion_page" />
+			<class name="PageRepo.Parallel_Payment_Check" />
+			<class name="PageRepo.Practice" />
+			<class name="PageRepo.SearchStory" />
+			<class name="PageRepo.Social_Login" />
+			<class name="PageRepo.TaxCalculator" />
+			<class name="PageRepo.Virtual_Books" />
+			<class name="PageRepo.Virtual_Journals" />
+			<class name="PageRepo.Webinars" />-->
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
